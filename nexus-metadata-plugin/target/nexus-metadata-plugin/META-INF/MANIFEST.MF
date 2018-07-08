@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: root
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_171
+Extension-Name: nexus-metadata-plugin
+Implementation-Title: nexus-metadata-plugin
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: de.mb
+Short-Name: nexus-metadata-plugin
+Long-Name: nexus-metadata-plugin
+Url: http://jenkins-ci.org/plugin/nexus-metadata-plugin/
+Plugin-Version: 1.0-SNAPSHOT (private-07/08/2018 11:01-root)
+Hudson-Version: 1.424
+Jenkins-Version: 1.424
+Plugin-Developers: 
+

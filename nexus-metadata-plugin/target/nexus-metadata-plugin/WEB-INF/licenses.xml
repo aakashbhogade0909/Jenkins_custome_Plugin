@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='de.mb' artifactId='nexus-metadata-plugin' version='1.0-SNAPSHOT'><l:dependency name='nexus-metadata-plugin' groupId='de.mb' artifactId='nexus-metadata-plugin' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/nexus-metadata-plugin/'><l:description/></l:dependency></l:dependencies>
